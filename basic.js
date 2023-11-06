@@ -35,7 +35,7 @@ console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
 
 
 
-//Ejercicio 5: Busca como imprimir en consola el typo de dato de cada variable que hemos creado.
+//Ejercicio 5: Busca como imprimir en consola el tipo de dato de cada variable que hemos creado.
 
 //Escribe tu código aquí
 
