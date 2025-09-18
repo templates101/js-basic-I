@@ -33,10 +33,12 @@ ___
 
 🔹 __*Paso 2 — Pensar la condición correcta*__
 
-La comprobación para fizzbuzz primero verifica si el número es múltiplo de 3 y 5 (n % 15 === 0), estodebe hacerse antes que las comprobaciones individuales; si haces 3 o 5 primero, no llegarás a fizzbuzz.
+La comprobación para fizzbuzz primero verifica si el número es múltiplo de 3 y 5 (n % 15 === 0), esto debe hacerse antes que las comprobaciones individuales; si haces 3 o 5 primero, no llegarás a fizzbuzz.
 
 - Usa el operador módulo %: n % 3 === 0 para detectar múltiplos de 3.
+
 - Luego haz lo mismo verificando si es múltiplo de 5
+
 - Si no cumple ninguna condición, imprime el número
 
 🔹 __*Paso 3 — Estructura básica (algoritmo)*__
